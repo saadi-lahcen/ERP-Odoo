@@ -1,45 +1,56 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+# 👋 Bonjour, je suis Lahcen Saadi
 
-<br />
+<p align="center">
+  <img width="80%" alt="Lahcen Saadi - IT Consultant & Developer" src="./assets/gh-readme-header.png" />
+</p>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+### 💻 IT Consultant | ERP Specialist | Developer | AI & Automation Enthusiast
 
-**About me**
+Après plus de **20 ans d'expérience dans l'informatique, l'ERP et le conseil**, je fais aujourd'hui mon **retour vers le développement** 🚀
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+Mon objectif : remettre mes compétences techniques au service de projets modernes, en combinant **développement, ERP, automatisation et intelligence artificielle**.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+---
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+## 👨‍💻 À propos de moi
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💼 Consultant IT spécialisé dans les solutions **ERP et Sage 100**
+- 🧩 Plus de **20 ans d'expérience** dans l'informatique et les systèmes de gestion
+- 🔄 Retour progressif vers le **développement logiciel**
+- 🤖 Passionné par l'**IA, les agents IA et l'automatisation**
+- ⚙️ Intéressé par **n8n, APIs, intégrations et automatisation des processus**
+- 🌐 Développement **Web, WordPress, WooCommerce et applications métier**
+- 📊 Expérience dans la **comptabilité, gestion commerciale, paie et ERP**
+- 🚀 Je transforme progressivement mon expérience métier en projets et outils logiciels
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
+## 🎯 Mon retour vers le développement
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+Après plusieurs années principalement consacrées au conseil, à l'intégration ERP et au support informatique, je reprends aujourd'hui le développement avec une nouvelle approche :
 
-#### Top Repositories
+> **Comprendre le métier → développer la solution → automatiser → intégrer l'IA**
 
+Je souhaite construire des projets concrets et utiles, notamment autour de :
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+- 🏢 ERP & gestion d'entreprise
+- 🤖 Intelligence artificielle
+- ⚡ Automatisation
+- 🌐 Applications Web
+- 🔗 APIs & intégrations
+- 📊 Data & reporting
+- 🛒 E-commerce
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a
+## 🛠️ Technologies & outils
+
+### 💻 Développement
+
+```text
+HTML        CSS
+JavaScript  TypeScript
+Python
+SQL
+Git / GitHub
+REST APIs
